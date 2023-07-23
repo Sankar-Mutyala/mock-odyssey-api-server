@@ -168,5 +168,15 @@
     "price": 65,
     "image": "https://ak-d.tripcdn.com/images/0221e12000a8z24bf3B1E_R_550_412_R5_D.jpg"
   }
+],
+
+"users":[
+    {
+        "Fullname":"Sankar_mutyala",
+        "Gender":"Male",
+        "Email":"mutyalasivasankar7@gmail.com",
+        "Password":123142,
+        "UserId":""
+    }
 ]
 }
